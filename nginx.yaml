@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: nginx-con
-        image: alstjrdlep/nginx:4
+        image: alstjrdlep/nginx:6
